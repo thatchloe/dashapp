@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -o errexit
+
 
 # Upgrade essential tools
 pip install --upgrade pip setuptools wheel
